@@ -1,0 +1,14 @@
+# Generated outputs — reproducible via `python code/analysis.py`
+results/*.png
+results/results_summary.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

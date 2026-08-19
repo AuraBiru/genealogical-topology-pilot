@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Directional Coherence in Heterogeneous Cosmological Anomalies: verified catalogue, analysis code, and pre-registration"
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+authors:
+  - family-names: Biru
+    given-names: Aura
+  - name: "Claude (Anthropic)"
+  - name: "Muse (Meta)"
+version: 1.0.0
+date-released: 2026-08-17
+license: CC-BY-4.0
+repository: "https://zenodo.org/[DOI pending]"

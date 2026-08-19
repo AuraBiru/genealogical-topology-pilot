@@ -1,0 +1,17 @@
+name,l_deg,b_deg,z,status,note
+Shapley Supercluster centroid,307.0,9.0,0.048,core,verified; representative of local attractor structure
+2MASS clustering dipole,300.0,0.0,0.05,core,verified; corrected at audit from erroneous (268.4 0)
+Watkins CF4 bulk flow,298.0,-8.0,0.07,core,verified; latitude corrected -7 to -8; represents bulk-flow family
+CatWISE2020 quasar dipole,238.2,28.8,1.2,core,verified; corrected at audit from erroneous (239 +44); represents radio/IR dipole family
+CMB hemispherical asymmetry,222.0,-21.0,1100,core,verified; single retained CMB temperature primary anomaly
+CMB Cold Spot,209.0,-57.0,1100,core,verified
+GRB H0 dipole,258.8,6.0,2.0,contested,Santiago et al. 2026 detection vs Luongo et al. 2025 null; converted from equatorial
+CMB quadrupole-octopole alignment axis,250.0,60.0,1100,excluded_distinct_axis,physically distinct axis ~80 deg from hemispherical asymmetry; CMB-correlated with retained entry; approximate coordinate
+CMB kinematic dipole,264.0,48.0,0,excluded_kinematic,observer motion; reference quantity rather than anomaly
+Fine-structure alpha dipole (Webb 2011),331.0,-14.0,3.0,excluded_contested,unconfirmed by ESPRESSO 2022 sub-ppm null; approximate coordinate from King et al. 2012
+Quasar polarisation alignment,,,1.0,excluded_coordinate_uncertainty,published directions spread too widely across analyses for directional testing
+KBC Void,,,0.02,excluded_no_centroid,broad structure without precisely defined directional centroid
+Hercules-Corona Borealis Great Wall,,,1.85,excluded_no_centroid,broad GRB cluster spanning ~1/8 of sky; no canonical centroid
+Dark Flow (Kashlinsky),289.0,10.0,0.1,collapsed_into_bulk_flow,contested historical variant; represented by Watkins CF4; approximate coordinate
+NVSS radio dipole,,,1.0,collapsed_into_catwise,radio dipole family member; represented by CatWISE2020
+Southern SNe+BAO axis (200 -70),200.0,-70.0,0.5,removed_unsourced,REMOVED AT AUDIT: cited source could not be located in the literature; treated as compilation error

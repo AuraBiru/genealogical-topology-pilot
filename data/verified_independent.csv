@@ -1,0 +1,8 @@
+id,name,l_deg,b_deg,z,sigma_theta_note,status,primary_source,verified_against_primary
+1,Shapley Supercluster centroid,307.0,9.0,0.048,none published,core,"Proust et al. 2006 A&A 447 133; Quintana et al. 1995",yes (z primary; coordinate secondary)
+2,2MASS clustering dipole,300.0,0.0,0.05,none published,core,"Gibelyou & Huterer 2012 MNRAS 427 1994",yes
+3,Watkins CF4 bulk flow,298.0,-8.0,0.07,"±5 (l) ±4 (b)",core,"Watkins et al. 2023 MNRAS 524 1885",yes
+4,CatWISE2020 quasar dipole,238.2,28.8,1.2,"±5-8 (Dam et al. 2023)",core,"Secrest et al. 2021 ApJL 908 L51",yes
+5,CMB hemispherical asymmetry,222.0,-21.0,1100,"±15-24",core,"Planck 2013 XXIII (A&A 571 A23)",yes
+6,CMB Cold Spot,209.0,-57.0,1100,"~5 core radius",core,"Cruz et al. 2005 MNRAS 356 29; Vielva et al. 2004",yes
+7,GRB H0 dipole,258.8,6.0,2.0,"±30 (RA) ±21 (Dec) equatorial",contested,"Santiago et al. 2026 JHEAp 51 100554 (detection); Luongo Muccino & Sorrenti 2025 A&A 703 A115 (null)",yes (converted from equatorial RA=134 Dec=-36)
